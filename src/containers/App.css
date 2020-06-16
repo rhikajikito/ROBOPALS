@@ -1,0 +1,20 @@
+
+
+@font-face {
+     font-family:  'Gamine';
+    font-style: normal;
+    font-weight: normal;
+src: local('Gamine'), url('Gamine.ttf') format('ttf');
+
+}
+
+h1 {
+    font-family: 'Gamine';
+    font-weight: 200;
+    color: hsl(160, 98%, 51%);
+    border: chartreuse;
+}
+
+.head {
+    color: rgb(106, 18, 221);
+}
